@@ -7,7 +7,7 @@ Task 2- In this task we plotted different histograms, various plots. Also we lea
 
 #CheckPoint 2-
 
-Task 1&2- We learnt many libraries from the OpenCV. We make a code using OpenCV for finding the gender and age of a person.
+Task 1&2- We learnt many libraries from the OpenCV. We make a code using OpenCV for finding the gender and age of a person.we learnt basic of computer vision and deep learning with OpenCV. For me it was difficult to understand the OpenCV. So I asked by doubts to our mentor and also search more about OpenCV and that’s how I cleared my concepts. And using all this knowledge in checkpoint 2 we made a code which can use our laptop’s webcam and predict our age in some range and our gender.
 
 CheckPoint 3-
 
